@@ -1,4 +1,16 @@
-
+/*
+ *  Diplomado Inteligencia artificial
+ *  
+ *  By:
+ *    Medrano Albarrán Gerardo
+ *    Merino Texta ROgelio de Jesus
+ *    
+ *  Practica 2 Ejercicio 0 :
+ *  
+ *  Maquina de estados de un robot movil que da vuelta a un pista y se estaciona:
+ * 
+ * 
+ */
 
 void setup() {
   pinMode(7, OUTPUT);
@@ -9,7 +21,8 @@ void setup() {
   pinMode(3, OUTPUT);
 
 }
-//github
+
+
 void loop() {
 
   mov(50, 65);
