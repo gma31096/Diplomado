@@ -8,6 +8,8 @@
  *  Practica 2 Ejercicio 4 :
  *  
  *  Digitalización de fotoresistencia con umbral variable por potenciometro
+ *  
+ *  23/02/2019
  * 
  * 
  */

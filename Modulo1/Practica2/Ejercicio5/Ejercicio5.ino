@@ -7,8 +7,9 @@
  *    
  *  Practica 2 Ejercicio 5 :
  *  
- *  Lectura Sharp
- * 
+ *  Lectura de sensor Sharp
+ *  
+ *  23/02/2019
  * 
  */
 void setup() {
